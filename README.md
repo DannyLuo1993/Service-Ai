@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to xprinter service-ai project
 
 ## Project info
@@ -57,3 +58,7 @@ This project is built with .
 ## I want to use a custom domain - is that possible?
 
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. 
+=======
+# Service-Ai
+芯烨Ai客服
+>>>>>>> 7cc102c08b511248b9f46a4389f2c77378640b2d

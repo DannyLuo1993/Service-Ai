@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'MiSans';
+  src: url('https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/MiSans-Regular.subset.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MiSans';
+  src: url('https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/MiSans-Medium.subset.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MiSans';
+  src: url('https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/MiSans-Bold.subset.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
